@@ -30,6 +30,13 @@ The system:
 - Early interview termination logic
 - Final readiness and hiring indicator
 
+## 🎥 Demo Video (Live Working Project)
+
+Watch the live working demo of the AI-powered mock interview platform here:
+
+https://drive.google.com/file/d/1eXrrGivJWkHa1_mhylpDocsd4EEfYSvb/view?usp=drive_link
+
+
 ---
 
 ## How It Works
